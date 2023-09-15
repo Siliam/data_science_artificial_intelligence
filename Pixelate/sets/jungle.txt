@@ -1,0 +1,862 @@
+<table class="roundy" style="float:left; background:#7DB808; border: 3px solid #517805">
+<tbody><tr>
+<td colspan="4">
+<table cellspacing="3" style="background: transparent; width: 100%">
+<tbody><tr>
+<td style="text-align:left; color:#000;"><big><b>Jungle</b></big>
+</td>
+<td class="roundy" width="45px" style="text-align:right; background:#FFFFFF"><div class="center"><div class="floatnone"><a href="/wiki/File:SetSymbolJungle.png" class="image"><img alt="SetSymbolJungle.png" src="//archives.bulbagarden.net/media/upload/thumb/2/2f/SetSymbolJungle.png/30px-SetSymbolJungle.png" decoding="async" loading="lazy" width="30" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2f/SetSymbolJungle.png/45px-SetSymbolJungle.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/2/2f/SetSymbolJungle.png/60px-SetSymbolJungle.png 2x"></a></div></div><span id="Jungle"></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>
+<table width="100%">
+<tbody><tr style="background:#AAD15E;">
+<th style="border-top-left-radius: 6px; -moz-border-radius-topleft: 6px; -webkit-border-top-left-radius: 6px; -khtml-border-top-left-radius: 6px; -icab-border-top-left-radius: 6px; -o-border-top-left-radius: 6px;">No.
+</th>
+<th style="display:none;">Image
+</th>
+<th class="unsortable">Card name
+</th>
+<th class="unsortable" style="border-top-right-radius: 0px; -moz-border-radius-topright: 0px; -webkit-border-top-right-radius: 0px; -khtml-border-top-right-radius: 0px; -icab-border-top-right-radius: 0px; -o-border-top-right-radius: 0px;">Type
+</th>
+<th style="border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" class="unsortable">Rarity
+</th>
+<th style="display:none; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" class="unsortable">Promotion
+</th></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">1/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Clefable_(Jungle_1)" title="Clefable (Jungle 1)">Clefable</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">2/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Electrode_(Jungle_2)" title="Electrode (Jungle 2)">Electrode</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Lightning_Energy_(TCG)" title="Lightning"><img alt="Lightning" src="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/20px-Lightning-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/30px-Lightning-attack.png 1.5x, //archives.bulbagarden.net/media/upload/0/04/Lightning-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">3/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Flareon_(Jungle_3)" title="Flareon (Jungle 3)">Flareon</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fire_Energy_(TCG)" title="Fire"><img alt="Fire" src="//archives.bulbagarden.net/media/upload/thumb/a/ad/Fire-attack.png/20px-Fire-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/a/ad/Fire-attack.png/30px-Fire-attack.png 1.5x, //archives.bulbagarden.net/media/upload/a/ad/Fire-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">4/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Jolteon_(Jungle_4)" title="Jolteon (Jungle 4)">Jolteon</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Lightning_Energy_(TCG)" title="Lightning"><img alt="Lightning" src="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/20px-Lightning-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/30px-Lightning-attack.png 1.5x, //archives.bulbagarden.net/media/upload/0/04/Lightning-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">5/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Kangaskhan_(Jungle_5)" title="Kangaskhan (Jungle 5)">Kangaskhan</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">6/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Mr._Mime_(Jungle_6)" title="Mr. Mime (Jungle 6)">Mr. Mime</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Psychic_Energy_(TCG)" title="Psychic"><img alt="Psychic" src="//archives.bulbagarden.net/media/upload/thumb/e/ef/Psychic-attack.png/20px-Psychic-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/e/ef/Psychic-attack.png/30px-Psychic-attack.png 1.5x, //archives.bulbagarden.net/media/upload/e/ef/Psychic-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">7/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Nidoqueen_(Jungle_7)" title="Nidoqueen (Jungle 7)">Nidoqueen</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">8/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Pidgeot_(Jungle_8)" title="Pidgeot (Jungle 8)">Pidgeot</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">9/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Pinsir_(Jungle_9)" title="Pinsir (Jungle 9)">Pinsir</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">10/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Scyther_(Jungle_10)" title="Scyther (Jungle 10)">Scyther</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">11/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Snorlax_(Jungle_11)" title="Snorlax (Jungle 11)">Snorlax</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">12/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Vaporeon_(Jungle_12)" title="Vaporeon (Jungle 12)">Vaporeon</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Water_Energy_(TCG)" title="Water"><img alt="Water" src="//archives.bulbagarden.net/media/upload/thumb/1/11/Water-attack.png/20px-Water-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/11/Water-attack.png/30px-Water-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/11/Water-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">13/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Venomoth_(Jungle_13)" title="Venomoth (Jungle 13)">Venomoth</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">14/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Victreebel_(Jungle_14)" title="Victreebel (Jungle 14)">Victreebel</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">15/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Vileplume_(Jungle_15)" title="Vileplume (Jungle 15)">Vileplume</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">16/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Wigglytuff_(Jungle_16)" title="Wigglytuff (Jungle 16)">Wigglytuff</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare_Holo.png" class="image" title="Rare Holo"><img alt="Rare Holo" src="//archives.bulbagarden.net/media/upload/6/65/Rarity_Rare_Holo.png" decoding="async" loading="lazy" width="22" height="12"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">17/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Clefable_(Jungle_17)" class="mw-redirect" title="Clefable (Jungle 17)">Clefable</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">18/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Electrode_(Jungle_18)" class="mw-redirect" title="Electrode (Jungle 18)">Electrode</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Lightning_Energy_(TCG)" title="Lightning"><img alt="Lightning" src="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/20px-Lightning-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/30px-Lightning-attack.png 1.5x, //archives.bulbagarden.net/media/upload/0/04/Lightning-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">19/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Flareon_(Jungle_19)" class="mw-redirect" title="Flareon (Jungle 19)">Flareon</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fire_Energy_(TCG)" title="Fire"><img alt="Fire" src="//archives.bulbagarden.net/media/upload/thumb/a/ad/Fire-attack.png/20px-Fire-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/a/ad/Fire-attack.png/30px-Fire-attack.png 1.5x, //archives.bulbagarden.net/media/upload/a/ad/Fire-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">20/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Jolteon_(Jungle_20)" class="mw-redirect" title="Jolteon (Jungle 20)">Jolteon</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Lightning_Energy_(TCG)" title="Lightning"><img alt="Lightning" src="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/20px-Lightning-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/30px-Lightning-attack.png 1.5x, //archives.bulbagarden.net/media/upload/0/04/Lightning-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">21/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Kangaskhan_(Jungle_21)" class="mw-redirect" title="Kangaskhan (Jungle 21)">Kangaskhan</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">22/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Mr._Mime_(Jungle_22)" class="mw-redirect" title="Mr. Mime (Jungle 22)">Mr. Mime</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Psychic_Energy_(TCG)" title="Psychic"><img alt="Psychic" src="//archives.bulbagarden.net/media/upload/thumb/e/ef/Psychic-attack.png/20px-Psychic-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/e/ef/Psychic-attack.png/30px-Psychic-attack.png 1.5x, //archives.bulbagarden.net/media/upload/e/ef/Psychic-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">23/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Nidoqueen_(Jungle_23)" class="mw-redirect" title="Nidoqueen (Jungle 23)">Nidoqueen</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">24/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Pidgeot_(Jungle_24)" class="mw-redirect" title="Pidgeot (Jungle 24)">Pidgeot</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">25/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Pinsir_(Jungle_25)" class="mw-redirect" title="Pinsir (Jungle 25)">Pinsir</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">26/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Scyther_(Jungle_26)" class="mw-redirect" title="Scyther (Jungle 26)">Scyther</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">27/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Snorlax_(Jungle_27)" class="mw-redirect" title="Snorlax (Jungle 27)">Snorlax</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">28/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Vaporeon_(Jungle_28)" class="mw-redirect" title="Vaporeon (Jungle 28)">Vaporeon</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Water_Energy_(TCG)" title="Water"><img alt="Water" src="//archives.bulbagarden.net/media/upload/thumb/1/11/Water-attack.png/20px-Water-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/11/Water-attack.png/30px-Water-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/11/Water-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">29/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Venomoth_(Jungle_29)" class="mw-redirect" title="Venomoth (Jungle 29)">Venomoth</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">30/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Victreebel_(Jungle_30)" class="mw-redirect" title="Victreebel (Jungle 30)">Victreebel</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">31/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Vileplume_(Jungle_31)" class="mw-redirect" title="Vileplume (Jungle 31)">Vileplume</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">32/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Wigglytuff_(Jungle_32)" class="mw-redirect" title="Wigglytuff (Jungle 32)">Wigglytuff</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/18px-Rarity_Rare.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/27px-Rarity_Rare.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/b/b9/Rarity_Rare.png/36px-Rarity_Rare.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">33/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Butterfree_(Jungle_33)" title="Butterfree (Jungle 33)">Butterfree</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">34/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Dodrio_(Jungle_34)" title="Dodrio (Jungle 34)">Dodrio</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">35/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Exeggutor_(Jungle_35)" title="Exeggutor (Jungle 35)">Exeggutor</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">36/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Fearow_(Jungle_36)" title="Fearow (Jungle 36)">Fearow</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">37/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Gloom_(Jungle_37)" title="Gloom (Jungle 37)">Gloom</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">38/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Lickitung_(Jungle_38)" title="Lickitung (Jungle 38)">Lickitung</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">39/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Marowak_(Jungle_39)" title="Marowak (Jungle 39)">Marowak</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fighting_Energy_(TCG)" title="Fighting"><img alt="Fighting" src="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/20px-Fighting-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/30px-Fighting-attack.png 1.5x, //archives.bulbagarden.net/media/upload/4/48/Fighting-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">40/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Nidorina_(Jungle_40)" title="Nidorina (Jungle 40)">Nidorina</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">41/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Parasect_(Jungle_41)" title="Parasect (Jungle 41)">Parasect</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">42/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Persian_(Jungle_42)" title="Persian (Jungle 42)">Persian</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">43/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Primeape_(Jungle_43)" title="Primeape (Jungle 43)">Primeape</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fighting_Energy_(TCG)" title="Fighting"><img alt="Fighting" src="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/20px-Fighting-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/30px-Fighting-attack.png 1.5x, //archives.bulbagarden.net/media/upload/4/48/Fighting-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">44/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Rapidash_(Jungle_44)" title="Rapidash (Jungle 44)">Rapidash</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fire_Energy_(TCG)" title="Fire"><img alt="Fire" src="//archives.bulbagarden.net/media/upload/thumb/a/ad/Fire-attack.png/20px-Fire-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/a/ad/Fire-attack.png/30px-Fire-attack.png 1.5x, //archives.bulbagarden.net/media/upload/a/ad/Fire-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">45/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Rhydon_(Jungle_45)" title="Rhydon (Jungle 45)">Rhydon</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fighting_Energy_(TCG)" title="Fighting"><img alt="Fighting" src="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/20px-Fighting-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/30px-Fighting-attack.png 1.5x, //archives.bulbagarden.net/media/upload/4/48/Fighting-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">46/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Seaking_(Jungle_46)" title="Seaking (Jungle 46)">Seaking</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Water_Energy_(TCG)" title="Water"><img alt="Water" src="//archives.bulbagarden.net/media/upload/thumb/1/11/Water-attack.png/20px-Water-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/11/Water-attack.png/30px-Water-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/11/Water-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">47/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Tauros_(Jungle_47)" title="Tauros (Jungle 47)">Tauros</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">48/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Weepinbell_(Jungle_48)" title="Weepinbell (Jungle 48)">Weepinbell</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/18px-Rarity_Uncommon.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/27px-Rarity_Uncommon.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/0/0f/Rarity_Uncommon.png/36px-Rarity_Uncommon.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">49/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Bellsprout_(Jungle_49)" title="Bellsprout (Jungle 49)">Bellsprout</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">50/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Cubone_(Jungle_50)" title="Cubone (Jungle 50)">Cubone</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fighting_Energy_(TCG)" title="Fighting"><img alt="Fighting" src="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/20px-Fighting-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/30px-Fighting-attack.png 1.5x, //archives.bulbagarden.net/media/upload/4/48/Fighting-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">51/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Eevee_(Jungle_51)" title="Eevee (Jungle 51)">Eevee</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">52/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Exeggcute_(Jungle_52)" title="Exeggcute (Jungle 52)">Exeggcute</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">53/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Goldeen_(Jungle_53)" title="Goldeen (Jungle 53)">Goldeen</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Water_Energy_(TCG)" title="Water"><img alt="Water" src="//archives.bulbagarden.net/media/upload/thumb/1/11/Water-attack.png/20px-Water-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/11/Water-attack.png/30px-Water-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/11/Water-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">54/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Jigglypuff_(Jungle_54)" title="Jigglypuff (Jungle 54)">Jigglypuff</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">55/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Mankey_(Jungle_55)" title="Mankey (Jungle 55)">Mankey</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fighting_Energy_(TCG)" title="Fighting"><img alt="Fighting" src="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/20px-Fighting-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/30px-Fighting-attack.png 1.5x, //archives.bulbagarden.net/media/upload/4/48/Fighting-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">56/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Meowth_(Jungle_56)" title="Meowth (Jungle 56)">Meowth</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">57/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Nidoran%E2%99%80_(Jungle_57)" title="Nidoran♀ (Jungle 57)">Nidoran♀</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">58/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Oddish_(Jungle_58)" title="Oddish (Jungle 58)">Oddish</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">59/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Paras_(Jungle_59)" title="Paras (Jungle 59)">Paras</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">60/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Pikachu_(Jungle_60)" title="Pikachu (Jungle 60)">Pikachu</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Lightning_Energy_(TCG)" title="Lightning"><img alt="Lightning" src="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/20px-Lightning-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/0/04/Lightning-attack.png/30px-Lightning-attack.png 1.5x, //archives.bulbagarden.net/media/upload/0/04/Lightning-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">61/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Rhyhorn_(Jungle_61)" title="Rhyhorn (Jungle 61)">Rhyhorn</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Fighting_Energy_(TCG)" title="Fighting"><img alt="Fighting" src="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/20px-Fighting-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/4/48/Fighting-attack.png/30px-Fighting-attack.png 1.5x, //archives.bulbagarden.net/media/upload/4/48/Fighting-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">62/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Spearow_(Jungle_62)" title="Spearow (Jungle 62)">Spearow</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Colorless_Energy_(TCG)" title="Colorless"><img alt="Colorless" src="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/20px-Colorless-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/1/1d/Colorless-attack.png/30px-Colorless-attack.png 1.5x, //archives.bulbagarden.net/media/upload/1/1d/Colorless-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">63/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Venonat_(Jungle_63)" title="Venonat (Jungle 63)">Venonat</a>
+</td>
+<th align="center" style="background:#FFFFFF;"><a href="/wiki/Grass_Energy_(TCG)" title="Grass"><img alt="Grass" src="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/20px-Grass-attack.png" decoding="async" loading="lazy" width="20" height="20" srcset="//archives.bulbagarden.net/media/upload/thumb/2/2e/Grass-attack.png/30px-Grass-attack.png 1.5x, //archives.bulbagarden.net/media/upload/2/2e/Grass-attack.png 2x"></a>
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<td align="center" style="background:#FFFFFF">64/64
+</td>
+<td align="center" style="display:none; background:#FFFFFF"><a href="/wiki/File:TCG2_A01_Bulbasaur.png" class="image"><img alt="TCG2 A01 Bulbasaur.png" src="//archives.bulbagarden.net/media/upload/6/6e/TCG2_A01_Bulbasaur.png" decoding="async" loading="lazy" width="64" height="48"></a>
+</td>
+<td style="background:#FFFFFF"><a href="/wiki/Pok%C3%A9_Ball_(Jungle_64)" title="Poké Ball (Jungle 64)">Poké Ball</a>
+</td>
+<th align="center" style="background:#FFE955;">T
+</th>
+<td align="center" style="background:#FFFFFF"><a href="/wiki/File:Rarity_Common.png" class="image" title="Common"><img alt="Common" src="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/18px-Rarity_Common.png" decoding="async" loading="lazy" width="18" height="18" srcset="//archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/27px-Rarity_Common.png 1.5x, //archives.bulbagarden.net/media/upload/thumb/8/8c/Rarity_Common.png/36px-Rarity_Common.png 2x"></a>
+</td>
+<td style="display:none; background:#FFFFFF">Promotion
+</td></tr>
+<tr>
+<th colspan="4" style="background:#AAD15E; border-bottom-left-radius: 6px; -moz-border-radius-bottomleft: 6px; -webkit-border-bottom-left-radius: 6px; -khtml-border-bottom-left-radius: 6px; -icab-border-bottom-left-radius: 6px; -o-border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;">&nbsp;
+</th></tr></tbody></table>
+</td></tr></tbody></table>
