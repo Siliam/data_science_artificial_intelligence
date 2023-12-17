@@ -4,3 +4,4 @@ machine_learning/NLP/Lyricist/*/*
 **/**/data/*
 *.tar
 **/*.tar
+LLM/*/
