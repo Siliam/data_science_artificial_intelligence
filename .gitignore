@@ -1,6 +1,6 @@
 **/*.ipynb_checkpoints/
 **/*.ipynb_checkpoints/
-machine_learning/NLP/Lyricist/*/*
+**/NLP/Lyricist/*/*
 **/**/data/*
 *.tar
 **/*.tar
